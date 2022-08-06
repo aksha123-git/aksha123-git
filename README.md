@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
  
  Instagram-https://www.instagram.com/aksha_mishra25/
 
- Linkdln - [linkedin.com/in/aksha-mishra-she-her-b21123211](https://www.linkedin.com/in/aksha-mishra-she-her-b21123211)
+ Linkedln - [linkedin.com/in/aksha-mishra-she-her-b21123211](https://www.linkedin.com/in/aksha-mishra-she-her-b21123211)
  
  HackRank-https://www.hackerrank.com/akshiiimishra
