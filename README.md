@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
  Linkedln - [linkedin.com/in/aksha-mishra-she-her-b21123211](https://www.linkedin.com/in/aksha-mishra-she-her-b21123211)
  
- HackRank-https://www.hackerrank.com/akshiiimishra
+ HackerRank-https://www.hackerrank.com/akshiiimishra
