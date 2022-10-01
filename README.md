@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aksha Mishra </h1>
 <h4 align="center">About me? I'm a Software developer. I'm passionate about problem solving and I love solving DSA problems on Leetcode and on GFG.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
+
 
 - 🌱 I’m currently learning **Back-end development in react.js and back-end in node.js**
 
