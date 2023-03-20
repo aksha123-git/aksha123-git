@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aksha Mishra </h1>
+<h1 align="center">Hi 👋, I'm Aksha </h1>
 <h4 align="center">About me? I'm a Software developer. I'm passionate about problem solving and I love solving DSA problems on Leetcode and on GFG.</h4>
 
 
