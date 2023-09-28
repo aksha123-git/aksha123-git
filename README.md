@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Back-end development in react.js and back-end in node.js**
+- 🌱 I’m currently learning **Back-end development in react.js **
 
 - 💬 Ask me about **Data structures and algorithms , competitive programming  and Machine learning.
 
