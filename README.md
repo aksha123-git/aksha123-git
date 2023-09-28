@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Data structures and algorithms , competitive programming  and Machine learning.
 
-- 📫 How to reach me **I'm most active on my linkedin! and twitter **
+- 📫 How to reach me ** I'm most active on my linkedin and twitter **
 
 
 <br>
